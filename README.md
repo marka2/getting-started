@@ -7,7 +7,7 @@ A step-by-step guide for getting involved in ACM at Manoa
 Slack is what we use for the majority of our communications.
 You can [download](https://slack.com/downloads) the desktop client or use the [web app](https://slack.com/).
 
-Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
+Slack Channel: [***acmmanoa***](https://acmmanoa.slack.com/)
 
 Note that you may need a hawaii.edu address to join the slack channel.
 
