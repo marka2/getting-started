@@ -15,14 +15,14 @@ Note that you may need a hawaii.edu address to join the slack channel.
 
 Join our mailing list [here](http://eepurl.com/bOCcTP) to get bi-weekly emails about ACM happenings. Domains other than hawaii.edu will work fine.
 
-## 3. Google Calendar
-
-Check our [our](https://calendar.google.com/calendar/embed?src=acmmanoa%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
-
-https://calendar.google.com/calendar/ical/acmmanoa%40hawaii.edu/public/basic.ics
-
-## 4. Facebook Page
+## 3. Facebook Page
 
 Like us on facebook for events invites and get updates as they happen.
 
 [ACM Manoa](https://www.facebook.com/ACM-at-Manoa-628133554020392)
+
+## 4. Google Calendar
+
+Check our [our](https://calendar.google.com/calendar/embed?src=acmmanoa%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
+
+https://calendar.google.com/calendar/ical/acmmanoa%40hawaii.edu/public/basic.ics
