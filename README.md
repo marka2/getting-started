@@ -23,14 +23,6 @@ Like us on facebook for events invites and get updates as they happen.
 
 ## 4. Google Calendar
 
-Check our [our](https://calendar.google.com/calendar/embed?src=acmmanoa%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
+Check out [our](https://calendar.google.com/calendar/embed?src=acmmanoa%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
 
 https://calendar.google.com/calendar/ical/acmmanoa%40hawaii.edu/public/basic.ics
-
-## 5. Choose your membership status
-
-***Affiliate***: By joining our slack channel and mailing list, you've already become one.
-
-***Registerd***: We'll collect $10 from you. You'll then be contacted by ACM for your membership number and activate your limited online benefits.
-
-***Active***: Go to ACM's student membership [page](http://www.acm.org/membership/student/) and choose an option appropriate for you, with prices ranging from $19 to $62. You'll then be contacted by ACM for you membership number and activate your unlimited online benefits. Make sure to select University of Hawaii at Manoa as you institution
