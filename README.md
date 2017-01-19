@@ -26,3 +26,7 @@ Like us on facebook for events invites and get updates as they happen.
 Check out [our](https://calendar.google.com/calendar/embed?src=acmmanoa%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
 
 https://calendar.google.com/calendar/ical/acmmanoa%40hawaii.edu/public/basic.ics
+
+----------------------
+
+Questions, comments, concerns, or corrections? [Email](acmmanoa@hawaii.edu) at acmmanoa@hawaii.edu
