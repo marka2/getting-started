@@ -29,4 +29,4 @@ https://calendar.google.com/calendar/ical/acmmanoa%40hawaii.edu/public/basic.ics
 
 ----------------------
 
-Questions, comments, concerns, or corrections? [Email](acmmanoa@hawaii.edu) at acmmanoa@hawaii.edu
+Questions, comments, concerns, or corrections? Email us at acmmanoa@hawaii.edu
