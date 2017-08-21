@@ -21,7 +21,13 @@ Like us on facebook for events invites and get updates as they happen.
 
 [ACM Manoa](https://www.facebook.com/ACM-at-Manoa-628133554020392)
 
-## 4. Google Calendar
+## 4. Twitter
+
+Follow our twitter for up-to-date information on events and messages from ACM at Manoa.
+
+[ACM Manoa](https://twitter.com/ACMatManoa)
+
+## 5. Google Calendar
 
 Check out [our](https://calendar.google.com/calendar/embed?src=acmmanoa%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
 
